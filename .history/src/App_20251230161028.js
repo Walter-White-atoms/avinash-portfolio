@@ -14,6 +14,10 @@ function App() {
         <li>Expert in Redux, WebSockets, and API integrations</li>
         <li>Experience in fintech, crypto exchanges, and enterprise apps</li>
       </ul>
+
+      <p>
+        Deployed using <strong>GitHub + Netlify CI/CD</strong>.
+      </p>
     </div>
   );
 }

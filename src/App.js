@@ -10,7 +10,7 @@ function App() {
       </p>
 
       <ul>
-        <li>4+ years of experience in React Native</li>
+        <li>6+ years of experience in React Native</li>
         <li>Expert in Redux, WebSockets, and API integrations</li>
         <li>Experience in fintech, crypto exchanges, and enterprise apps</li>
       </ul>
